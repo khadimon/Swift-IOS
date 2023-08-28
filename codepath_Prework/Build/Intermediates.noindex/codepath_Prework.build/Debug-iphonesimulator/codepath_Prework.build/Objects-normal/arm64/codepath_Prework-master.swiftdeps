@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "6a577c2ae0bff86b03fd1610abd78659024a4c8303d98303eb9da67ecb854b2a"
+build_start_time: [1693195001, 677052000]
+build_end_time: [1693195002, 589578000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/codepath_Prework/codepath_Prework/codepath_Prework/AppDelegate.swift": [1693194521, 63813354]
+  "/Users/khadichabonuvalieva/Desktop/codepath_Prework/codepath_Prework/codepath_Prework/SceneDelegate.swift": [1693194521, 66152197]
+  "/Users/khadichabonuvalieva/Desktop/codepath_Prework/codepath_Prework/codepath_Prework/ViewController.swift": [1693195000, 815066515]
