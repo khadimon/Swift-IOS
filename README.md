@@ -2,9 +2,9 @@
 
 Submitted by: **Khadichabonu (Khadi) Valieva**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is a game app.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -25,9 +25,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/73b309c01da742c8a71526cd8d3f200d"></a>
+    <a href="https://www.loom.com/share/73b309c01da742c8a71526cd8d3f200d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/73b309c01da742c8a71526cd8d3f200d-with-play.gif">
+    </a>
+</div>
 
 
 ## Notes
