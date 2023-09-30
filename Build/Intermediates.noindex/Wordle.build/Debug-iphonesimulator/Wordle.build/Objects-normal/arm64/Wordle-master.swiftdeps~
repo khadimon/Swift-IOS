@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "866a9d070fb4882edc49b341c3c5aa8e9468cd8b2801a9cad89a0dffd06a8a14"
+build_start_time: [1695831716, 696568000]
+build_end_time: [1695831716, 780705000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/BoardController.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/AppDelegate.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/BoardController+Extensions.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/Constants.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardCell.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardController+Extensions.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardController.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/LetterCell.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SceneDelegate.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SettingsManager.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SettingsViewController.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/ViewController+Extensions.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/WordGenerator.swift": !private [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/ViewController.swift": !private [1695097544, 0]

@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "866a9d070fb4882edc49b341c3c5aa8e9468cd8b2801a9cad89a0dffd06a8a14"
+build_start_time: [1696042343, 969484000]
+build_end_time: [1696042344, 635914000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/BoardController.swift": [1695835444, 337423013]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/AppDelegate.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/BoardController+Extensions.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/Constants.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardCell.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardController+Extensions.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardController.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/LetterCell.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SceneDelegate.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SettingsManager.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/SettingsViewController.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/ViewController+Extensions.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/DO_NOT_MODIFY/WordGenerator.swift": [1695097544, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project2-wordle-starter-main/Wordle/ViewController.swift": [1695838257, 335972624]
