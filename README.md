@@ -4,7 +4,7 @@ Submitted by: _Khadichabonu Valieva_
 
 _Wordle_ is an app that imitates the real game Wordle.
 
-Time spent: _2 hour_s spent in total
+Time spent: _2 hours_ spent in total
 
 ## Required Features
 
