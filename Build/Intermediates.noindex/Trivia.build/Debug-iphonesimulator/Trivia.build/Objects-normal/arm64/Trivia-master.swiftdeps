@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c4088bd6ef6a0dd95ca4a9582d7766152394a2c5bc71fdbcb089a867bdc5da23"
+build_start_time: [1696919698, 127723000]
+build_end_time: [1696919698, 225593000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project3-trivia-starter-main/Trivia/AppDelegate.swift": [1680879691, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project3-trivia-starter-main/Trivia/Quesitons.swift": !private [1696919697, 667821660]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project3-trivia-starter-main/Trivia/QuestionOne.swift": !private [1696897127, 734605044]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project3-trivia-starter-main/Trivia/SceneDelegate.swift": [1680879691, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project3-trivia-starter-main/Trivia/ViewController.swift": !private [1696919697, 637890145]
