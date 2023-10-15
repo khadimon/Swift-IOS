@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0c67ab0fc73e179fb5ca579a0871170be379e760ecb7e48b7aa7f6e696e80511"
+    }
+  ],
+  "containerPath" : "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/CloudCast.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/Build/Products",
+      "derivedDataPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis",
+      "indexDataStoreFolderPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/CloudCast-axvvoermipekwhfcrtwlsythsrtr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/CloudCast-axvvoermipekwhfcrtwlsythsrtr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "CDDAE8CC-9A62-4ADC-8338-32D51E1C6C55",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
