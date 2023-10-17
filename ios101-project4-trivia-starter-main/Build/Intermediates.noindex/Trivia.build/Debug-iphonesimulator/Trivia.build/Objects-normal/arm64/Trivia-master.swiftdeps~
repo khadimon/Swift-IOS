@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "974d2231f5b03a80e96fad2a12eb89d3f12325846b105e65213a50ad0f731b34"
+build_start_time: [1697254555, 751412000]
+build_end_time: [1697254555, 791988000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/AppDelegate.swift": !private [1681918100, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/SceneDelegate.swift": !private [1681918100, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/TriviaQuestion.swift": !private [1681918100, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/TriviaViewController.swift": !private [1681918100, 0]
