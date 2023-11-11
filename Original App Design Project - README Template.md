@@ -84,7 +84,10 @@ four squares some type
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVLMvB8paxhAiq4L1nkavAW%2Fcodepath_IOS_capstone8%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddev" allowfullscreen></iframe>
+<img width="801" alt="image" src="https://github.com/khadimon/codepath_IOS_capstone/assets/107568233/e30fa9a5-79d2-453d-b567-cf870dadad9c">
+
+or use this link to see: https://hackmd.io/@FXiC08JnR_K2C29ftDrFGQ/SJm42bNma
+
 
 
 ### [BONUS] Interactive Prototype
