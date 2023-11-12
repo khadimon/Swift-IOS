@@ -6,10 +6,7 @@ The app lets you input your name, last name, university, year in college, number
 message summarizing your input.
 
 ### App Walk-though
-
-![codepath_ios102_prework_short](https://github.com/khadimon/codepath_IOS102/assets/107568233/37fef82c-aba6-483a-b3f8-2f27dd1a0455)
-
-
+![codepath_ios102_prework_short](https://github.com/khadimon/codepath_IOS102/assets/107568233/3fb8235e-466f-4a2f-9778-afcb82407d6b)
 
 ### Required Features
 
