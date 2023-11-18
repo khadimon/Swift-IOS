@@ -1,0 +1,20 @@
+{
+  "source": "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      }
+    ]
+  },
+  "version": 1
+}

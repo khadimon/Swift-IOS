@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName1</string>
+			<key>relativePath</key>
+			<string>./1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName2</string>
+			<key>relativePath</key>
+			<string>./2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName3</string>
+			<key>relativePath</key>
+			<string>./3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName4</string>
+			<key>relativePath</key>
+			<string>./4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName6</string>
+			<key>relativePath</key>
+			<string>./6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_6</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
