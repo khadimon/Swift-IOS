@@ -17,3 +17,5 @@ Still need to do:
 Week 10 Update:
 - [X] - made some buttons functional
 - [X] - tried to implement SpotifyAPI
+
+![week10](https://github.com/khadimon/codepath_IOS_capstone/assets/107568233/e4470154-dca4-43a6-8534-3f70614fc623)
