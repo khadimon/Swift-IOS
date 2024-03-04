@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "fd9159ea1b1d30b9f011b18ca446881cc217a0886d4a403874ebd2251b226101"
+    }
+  ],
+  "containerPath" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS102_sp2024/codepath_ios102_prework/codepath_ios102_prework.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS102_sp2024/codepath_ios102_prework/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS102_sp2024/codepath_ios102_prework/Build/Products",
+      "derivedDataPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis",
+      "indexDataStoreFolderPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/codepath_ios102_prework-hkmpqsxvrevmmkgxjkriqshuwmtc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/khadichabonuvalieva/Desktop/khadi_code/khadichabonu_valieva_experimental_analysis/khadichabonu_valieva_experimental_analysis/codepath_ios102_prework-hkmpqsxvrevmmkgxjkriqshuwmtc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS102_sp2024/codepath_ios102_prework/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "8785EDDD-C672-4125-A5D1-68759CE4FC18",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

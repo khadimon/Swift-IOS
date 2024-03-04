@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS102_sp2024/codepath_ios102_prework/codepath_ios102_prework/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameUsmLogo</string>
+			<key>relativePath</key>
+			<string>./usm_logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>usmLogo</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
