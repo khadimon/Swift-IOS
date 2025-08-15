@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicApp-master.dia",
+    "emit-module-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicApp-master.swiftdeps"
+  },
+  "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/BlurEffect.swift" : {
+    "const-values" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.swiftconstvalues",
+    "dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.d",
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.dia",
+    "index-unit-output-path" : "/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.o",
+    "llvm-bc" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.bc",
+    "object" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.o",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect.swiftdeps",
+    "swiftmodule" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/BlurEffect~partial.swiftmodule"
+  },
+  "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/ContentView.swift" : {
+    "const-values" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/MusicAppApp.swift" : {
+    "const-values" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.swiftconstvalues",
+    "dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.d",
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.dia",
+    "index-unit-output-path" : "/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.o",
+    "llvm-bc" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.bc",
+    "object" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.o",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp.swiftdeps",
+    "swiftmodule" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/MusicAppApp~partial.swiftmodule"
+  },
+  "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/MusicApp/PlayerView.swift" : {
+    "const-values" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.swiftconstvalues",
+    "dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.d",
+    "diagnostics" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.dia",
+    "index-unit-output-path" : "/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.o",
+    "llvm-bc" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.bc",
+    "object" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.o",
+    "swift-dependencies" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView.swiftdeps",
+    "swiftmodule" : "/Users/khadichabonuvalieva/My Mac/Coding/Codepath/IOS101_fa2023/MusicApp/Build/Intermediates.noindex/MusicApp.build/Debug-iphonesimulator/MusicApp.build/Objects-normal/arm64/PlayerView~partial.swiftmodule"
+  }
+}

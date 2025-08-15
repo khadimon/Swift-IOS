@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'MusicApp' in project 'MusicApp' (no dependencies)
