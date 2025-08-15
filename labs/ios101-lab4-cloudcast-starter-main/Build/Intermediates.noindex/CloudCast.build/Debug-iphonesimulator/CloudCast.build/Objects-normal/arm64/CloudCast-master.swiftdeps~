@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0ffd226feca7b09e4ccb732b4aee500845966f535f525c1ca00f7b0411c7af40"
+build_start_time: [1697392693, 265292000]
+build_end_time: [1697392693, 353814000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/CloudCast/AppDelegate.swift": !private [1681662517, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/CloudCast/CurrentWeatherForecast.swift": !private [1681662517, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/CloudCast/ForecastViewController.swift": !private [1681662517, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-lab4-cloudcast-starter-main/CloudCast/SceneDelegate.swift": !private [1681662517, 0]
