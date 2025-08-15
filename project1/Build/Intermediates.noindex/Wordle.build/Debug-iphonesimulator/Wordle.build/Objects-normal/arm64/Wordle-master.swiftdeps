@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "63616e4f34ef9308b743928e2020c217f346df7091c7dc179df2b5b53babcc02"
+build_start_time: [1695600833, 694275000]
+build_end_time: [1695600834, 720578000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/BoardController.swift": [1695597597, 363873010]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/Constants.swift": [1679019429, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/DO_NOT_MODIFY/AppDelegate.swift": [1679019429, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/DO_NOT_MODIFY/BoardController+Extensions.swift": [1679019429, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/DO_NOT_MODIFY/KeyboardController+Extensions.swift": [1679019429, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/DO_NOT_MODIFY/SceneDelegate.swift": [1679019429, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/DO_NOT_MODIFY/ViewController+Extensions.swift": [1695600833, 149986808]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/KeyboardCell.swift": [1695599269, 189803883]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/KeyboardController.swift": [1695599269, 200271631]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/LetterCell.swift": [1695599269, 169328048]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/ViewController.swift": [1695599601, 793730384]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project1-wordle-starter-main/Wordle/WordGenerator.swift": [1695599105, 539516675]
