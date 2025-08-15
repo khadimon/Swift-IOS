@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "974d2231f5b03a80e96fad2a12eb89d3f12325846b105e65213a50ad0f731b34"
+build_start_time: [1697522623, 512695000]
+build_end_time: [1697522624, 715963000]
+inputs:
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/AppDelegate.swift": [1681918100, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/SceneDelegate.swift": [1681918100, 0]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/String_extension.swift": [1697522518, 646783317]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/TriviaQuestion.swift": [1697522134, 66674327]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/TriviaQuestionService.swift": [1697522623, 4760496]
+  "/Users/khadichabonuvalieva/Desktop/ios101-project4-trivia-starter-main/Trivia/fon.swift": [1697522333, 727540380]
